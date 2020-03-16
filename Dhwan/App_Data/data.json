@@ -1,0 +1,65 @@
+﻿{
+	"Name": "fixie",
+	"Short_description": "brooklyn",
+	"Date_of_birth": "1912-08-02T23:44:08",
+	"Personal_contact": {
+		"Address": "7275 Snyder Avenue ",
+		"Emails": [ "Mariah Carey", "Marilyn's Vitamins", "Lime", "Lighthouse", "Malajube" ],
+		"Phones": [ "Merryweather", "Phil Collins", "Little Caesar and the Consuls", "The Mountains and the Trees", "The Look People" ],
+		"Facebook": "park",
+		"Twitter": "@GRobinson",
+		"Linkedin": "on",
+		"Youtube": "freegan",
+		"GitHub": "artisan"
+	},
+	"Official_contact": {
+		"Address": "2789 Brighton 4th Road ",
+		"Emails": [ "Barry Manilow", "Gloria Estefan", "Little Girls", "The Moffatts", "Luther Wright and the Wrongs" ],
+		"Phones": [ "Mother Mother", "Aerosmith", "Maow", "Donna Summer", "Metalwood" ],
+		"Facebook": "DIY",
+		"Twitter": "@TLee",
+		"Linkedin": "irony",
+		"Youtube": "of",
+		"GitHub": "photo"
+	},
+	"About_me": "food",
+	"About_me_skills": [ "The McRackins", "Kenny Rogers", "The Musical Box", "Moneyshot", "Madrid" ],
+	"Pages": [
+		{
+			"Nevigation": "raw",
+			"Title": "New Study of Obesity Looks for Larger Test Group",
+			"Description": "Iphone",
+			"More_url_link": "small",
+			"Cards": [
+				{
+					"Title": "War Dims Hope for Peace",
+					"Description": "PBR",
+					"More_url_link": "viral"
+				},
+				{
+					"Title": "Officials Determine Crash Occured When Plane Hit the Ground",
+					"Description": "helvetica",
+					"More_url_link": "bicycle"
+				}
+			]
+		},
+		{
+			"Nevigation": "haven't",
+			"Title": "Red Tape Holds Up New Bridges",
+			"Description": "echo",
+			"More_url_link": "work",
+			"Cards": [
+				{
+					"Title": "Officials Determine Crash Occured When Plane Hit the Ground",
+					"Description": "heard",
+					"More_url_link": "american"
+				},
+				{
+					"Title": "State Prisons to Replace Easy-Open Locks",
+					"Description": "Marfa",
+					"More_url_link": "wayfarers"
+				}
+			]
+		}
+	]
+}
